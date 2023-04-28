@@ -78,5 +78,8 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "surrealdb.js": "^0.6.0"
   }
 }
